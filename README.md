@@ -20,9 +20,7 @@ You are to write a Python program in the included q2.py file with the following 
   - Draw a line from the point of the third mouse click to the point of the first mouse click
 - Lastly, display the length of the three lines, so that it is clear which line the length refers to. In the example below, the length of the line is displayed at the center of the line (you are not required to do it this way). 
 
-A sample output is shown below.
-
-![quiz-2-sample-output](C:\code\obu\spring-2021\cis-3703\cis-3703-spring-2021-quiz-2-soln\quiz-2-sample-output.jpg)
+A sample output is included in the file quiz-2-sample-output.jpg
 
 
 
